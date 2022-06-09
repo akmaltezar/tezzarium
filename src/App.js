@@ -1,16 +1,16 @@
 import React from 'react';
 import {Header, Hero, About, Technologies, MyProjects, Footer} from './components';
-import { Container } from './container';
+import {Layout} from './layout'
 
 const App = () => (
-  <Container>
+  <Layout>
     <Header />
     <Hero/>
     <About/>
     <Technologies/>
     <MyProjects/>
     <Footer/>
-  </Container>
+  </Layout>
 );
 
 export default App;
