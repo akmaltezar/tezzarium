@@ -1,11 +1,9 @@
 body {
-    background: #0F1624 ;
+    margin: 0;
     cursor: default ;
     margin: 0;
     padding: 0;
-}
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0 ;
+    /* background: #0F1624 ;
+    cursor: default ;
+    padding: 0; */
 }
