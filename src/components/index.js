@@ -4,6 +4,8 @@ import Hero from './Hero/Hero';
 import Header from './Header/Header';
 import Technologies from './Technologies/Technologies'
 import MyProjects from './MyProjects/MyProjects';
+import Certificate from './Certificate/Certificate';
+import Contact from './Contact/Contact';
 
 
 export {
@@ -11,6 +13,8 @@ export {
   Hero,
   About,
   Technologies,
+  Certificate,
   MyProjects,
-  Footer
+  Contact,
+  Footer,
 };

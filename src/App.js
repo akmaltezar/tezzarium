@@ -1,16 +1,7 @@
-import React from 'react';
-import {Header, Hero, About, Technologies, MyProjects, Footer} from './components';
-import {Layout} from './layout'
+import React from "react";
 
-const App = () => (
-  <Layout>
-    <Header />
-    <Hero/>
-    <About/>
-    <Technologies/>
-    <MyProjects/>
-    <Footer/>
-  </Layout>
-);
+const App = () => {
+  return <div>App</div>;
+};
 
 export default App;
