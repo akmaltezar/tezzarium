@@ -46,7 +46,7 @@ export const myprojects = [
       backend: "Symfony",
       database: "PostgreSQL",
     },
-    url: "https://github.com/akmaltezar/prayer-times-app",
+    url: "https://sholatyuk.netlify.app/",
   },
   {
     title: "Baca Qur'an",
@@ -58,7 +58,7 @@ export const myprojects = [
       backend: "Express",
       database: "MongoDB",
     },
-    url: "https://github.com/akmaltezar/Baca-Quran",
+    url: "https://bacaalquran.netlify.app/",
   },
   {
     title: "David's Page",
