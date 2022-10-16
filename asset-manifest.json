@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e12f8c6e.css",
+    "main.js": "/static/js/main.10746703.js",
+    "static/media/freecodecamp.png": "/static/media/freecodecamp.b7a2ae3de760cff7c45f.png",
+    "static/media/sololearn-js.png": "/static/media/sololearn-js.371be56555954ebf4b3f.png",
+    "static/media/sololearn-react.png": "/static/media/sololearn-react.5d14651e450b31e1d3e9.png",
+    "static/media/progate-web.png": "/static/media/progate-web.5e417cbba2d69ce8e644.png",
+    "static/media/git-icon.png": "/static/media/git-icon.0983b7b8f96629e083f1.png",
+    "static/media/react-logo.png": "/static/media/react-logo.c180fa4e989050b559e3.png",
+    "static/media/progate-js.png": "/static/media/progate-js.102b85b2085646662891.png",
+    "static/media/progate-htmlcss.png": "/static/media/progate-htmlcss.27fb9b67c950926e9e13.png",
+    "static/media/progate-react.png": "/static/media/progate-react.cf65e37b816869d4ea5e.png",
+    "static/media/redux-logo.png": "/static/media/redux-logo.c9be37e0fece29c624b0.png",
+    "static/media/typescript.jpg": "/static/media/typescript.28877d7919cf44959fb6.jpg",
+    "static/media/postmanLogo.png": "/static/media/postmanLogo.e946b36ddbb390709af9.png",
+    "index.html": "/index.html",
+    "main.e12f8c6e.css.map": "/static/css/main.e12f8c6e.css.map",
+    "main.10746703.js.map": "/static/js/main.10746703.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e12f8c6e.css",
+    "static/js/main.10746703.js"
+  ]
+}
