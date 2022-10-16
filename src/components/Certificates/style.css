@@ -1,0 +1,39 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  gap: 10px;
+}
+.accordion {
+  background-color: #212d45;
+  padding: 14px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  width: fit-content;
+}
+.content {
+  max-height: 0;
+  overflow: hidden;
+  transition: all 0.4s cubic-bezier(0, 1, 0, 1);
+}
+
+.content.show {
+  height: auto;
+  max-height: 999px;
+  transition: all 0.4s cubic-bezier(1, 0, 1, 0);
+}
+.title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.image {
+  width: 350px;
+  margin-top: 15px;
+}
+
+@media screen and (max-width: 768px) {
+  .accordion {
+    padding: 9px;
+  }
+}
