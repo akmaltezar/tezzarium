@@ -52,7 +52,7 @@ const Footer = () => {
           </Icon>
         </Social>
       </Foot>
-      <Stamp>@2022 Akmal</Stamp>
+      <Stamp>@2023 Akmal</Stamp>
     </Container>
   );
 };

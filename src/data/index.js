@@ -78,5 +78,6 @@ export const myprojects = [
 export const TimeLineData = [
   { year: 2020, text: "Start my journey by learn HTML & CSS" },
   { year: 2021, text: "Join Pondok Programmer & learn React Native" },
-  { year: 2021, text: "Became an education mentor at Pondok Programmer" },
+  { year: 2022, text: "Became an education mentor at Pondok Programmer" },
+  { year: 2023, text: "Started life as a student and developer" },
 ];

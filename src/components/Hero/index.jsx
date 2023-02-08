@@ -25,7 +25,9 @@ const Hero = () => {
             HELLO WORLD,
             <br /> I'm <span ref={typeTarget} />
           </h3>
-          <p>Coding is really hard,but $1000 is $1000</p>
+          <p>
+            Full<em>stack</em> is actually mean full nge<em>stuck</em>{" "}
+          </p>
         </Type>
       </LeftSection>
       <RightSection>

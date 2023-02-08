@@ -43,7 +43,7 @@ export const Type = styled.div`
     margin: 25px 0;
   }
   p {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     font-weight: 600;
   }
   @media screen and (max-width: 768px) {
